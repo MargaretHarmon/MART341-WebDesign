@@ -26,3 +26,19 @@
     
     </body>
 </html>
+
+<p>
+   
+1. Briefly recap your experience learning HTML. What was old, new, interesting, or
+difficult to learn?
+    Most was new and very interesting. My only experince with coding has been through your creative coding class witch was AWSOME, and now this class!
+2. Next module we continue with CSS and expand on styling, which helps us
+"decorate" HTML. Is there anything you're anxious or excited to learn about in
+this new section?
+    Yes just building in a more graphic style to websites. It has been challanging for me to understand how to make the simplest html pages I cannot imagine
+    the difficulty creating modern day websites would be like. 
+3. Free Response: Summarize your challenges and successes. What did you do to
+overcome your challenges?
+    I got my images to show up!!! I was very happy about that:) My challange is getting my youtube links to show up, i always seem to mess that up.
+    
+   <p/>
