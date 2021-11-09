@@ -1,5 +1,7 @@
 body
-
+{
+    font-family: feComponentTransfer;
+}
 .main-container {   
     border-color: rgba(235, 212, 85, 0.767);
     border-style: solid;
@@ -11,9 +13,6 @@ body
    
 }
 
-{
-    font-family: feComponentTransfer;
-}
 div.align{
     text-align: center;
 }
