@@ -1,0 +1,6 @@
+1. Who was your imaginary client? How did they describe their site needs?
+My imaganery clinet was no so imagenery. When looking up the sight i saw they used a html webpage. It was cool to see a real buisness use what i was learning in this class. Wanted to understand how intricate and hard making their sight would actually be. Their sight needs to be smooth, entertaining, and have mutliple drop downs. 
+2. Why is it important to consider a mobile-first design?
+Well first off companies are being sued for not creating websites that can be accses through different mobile devices. Also will increase traffic through your sight to have it accsesible to more than just a laptop. 
+3. Free Response: Please discuss your challenges and how you overcame them.
+I has so many challanges this week, getting the images to be properly placed inside the website was very challanging to me. I ended up just putting them as a link next to the orignal source for the webpage. Also in the final reoranging of the sight i somhow messed up the about page and have no idea how i did it. I did not resolve this issue. The padding for the about is way up in the top left of the page, and the about text became purple and underlined. 
