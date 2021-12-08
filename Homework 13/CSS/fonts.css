@@ -1,0 +1,26 @@
+
+@font-face
+ {
+ font-family: 'OpenSans-Regular';
+ src: url('../FONTS/OpenSans-Regular.ttf') format('truetype');
+ font-style: normal;
+ }
+ @font-face 
+ {
+ font-family: 'OpenSans-Regular';
+ src: url('../FONTS/OpenSans-Regular.ttf') format('truetype');
+ font-weight: 620;
+ }
+ 
+ @font-face 
+ {
+ font-family: 'Aller_BdIt';
+ src: url('../FONTS/Aller_BdIt.ttf') format('truetype');
+ font-style: normal;
+}
+@font-face 
+{
+ font-family: 'Aller_BdIt';
+ src: url('../FONTS/Aller_BdIt.ttf') format('truetype');
+ font-weight: 620;
+}

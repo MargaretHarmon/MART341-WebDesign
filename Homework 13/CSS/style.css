@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(247, 247, 244);
+}
+.textareacomments{
+    padding-bottom: 400px;
+}
+div{
+    text-align: left;
+    line-height: 1.6em;
+    font-family: Aller_BdIt;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+h1, h3, h5{
+    text-align: center;
+    font-family: OpenSans-Regular;
+    
+}
+.opening-paragraph{
+    color: rgb(146, 17, 17);
+    font-size: 20px;
+    text-indent: 10px;
+    font-weight:600;
+}
+
+.opening-paragraph::first-line{
+    font-size: 20px;
+}
+.second-paragraph{
+    font-size: 16px;
+}
+
+table{
+    border: 1px dashed rgb(143, 25, 25);
+    font-family:  AmaticSC-Regular;
+    font-weight: 600;
+    padding: 5px;
+}
+
+
+p{
+    font-family: AmaticSC-Regular, Aller_BdIt;
+}
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #852a2a;
+    font-family: Aller_BdIt;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: left;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .1em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #37383b;
+    padding: 0.6em 1em;
+}
+
+
+.menu-item a {
+    color: rgb(243, 236, 236);
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: rgb(153, 151, 151);
+   
+}
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid rgb(2, 2, 2);
+    margin: 0.5em 0 0 -1em;
+    color: rgb(7, 7, 7);
+    background-color: rgb(253, 250, 250);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #a2a2a2;
+}
+
+.col-6 {width: 50%;}
+
+.col-12 {width: 120%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 20px;
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.contactus{
+    width:50%;
+    margin-left: 25%;
+    
+}
