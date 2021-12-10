@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: 'Aller_Bd';
+    src: url('../fonts/Aller_Bd.ttf') format('truetype');
+    font-style: normal;}
+ @font-face {
+    font-family: 'Aller_Lt';
+    src: url('../fonts/Aller_Lt.ttf') format('truetype');
+    font-weight: 800;}
+ @font-face {
+   font-family: 'OpenSans-Bold';
+   src: url('../fonts/OpenSans-Bold.ttf') format('truetype');
+   font-style: normal;}
+@font-face {
+   font-family: 'OpenSans-Reg';
+   src: url('../fonts/OpenSans-Reg.ttf') format('truetype');
+   font-weight: 800;
+}
+
