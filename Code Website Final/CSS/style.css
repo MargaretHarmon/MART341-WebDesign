@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(241, 212, 241);
+    background-blend-mode: soft-light;
+}
+.textareacomments{
+    padding-bottom: 500px;
+}
+div{
+    text-align: left;
+    line-height: 1.6em;
+    font-family: ostrich;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+h1, h3, h5{
+    text-align: center;
+    font-family: Pacifico;
+    font-size: x-large;
+
+    
+}
+.opening-paragraph{
+    color: rgb(36, 17, 146);
+    font-size: 20px;
+    text-indent: 10px;
+    font-weight:600;
+}
+
+.opening-paragraph::first-line{
+    font-size: 30px;
+}
+.second-paragraph{
+    font-size: 16px;
+}
+
+table{
+    border: 2px dashed rgb(47, 25, 143);
+    font-family:  ostrich;
+    font-weight: 600;
+    padding: 5px;
+}
+
+
+p{
+    font-family: Pacifico;
+}
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    font-family: Pacifico;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: left;
+    background-blend-mode:soft-light;
+    background-color: greenyellow;
+}
+
+.selector {
+    background-image: all(IMAGES/Backround)
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .1em;
+    min-width: 8em;
+    text-align: center;
+    background-color: #37383b;
+    padding: 0.5em 5em;
+}
+
+
+.menu-item a {
+    color: rgb(243, 236, 236);
+    text-decoration: none;
+    
+}
+
+.menu-item:hover {
+    background-color: rgb(211, 206, 206);
+   
+}
+
+.col-6 {width: 50%;}
+
+.col-12 {width: 120%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 20px;
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.contactus{
+    width:50%;
+    margin-left: 25%;
+    
+}
